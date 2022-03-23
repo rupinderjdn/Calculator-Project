@@ -56,3 +56,5 @@ function clickxyz(btnxyz) {
     })
 }
 buttonsxyz.map(abcxyz => clickxyz(abcxyz))
+// buttonsxyz.map(clickxyz)
+// Above two things are same
