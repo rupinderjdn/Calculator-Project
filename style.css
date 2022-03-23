@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:wght@300&display=swap');
 body{
     padding: 0;
+    box-sizing: border-box;
+    margin: 0;
 }
 .container{
     background-image: url(images/bg1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    max-width: 400px;
+    max-width: 33vw;
     max-height: 100vh;
     margin: 2vh auto 0 auto;
     font-family: 'Roboto',sans-serif;
